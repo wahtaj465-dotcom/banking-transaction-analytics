@@ -1,0 +1,26 @@
+branch_id,branch_name,city,region
+BR001,Chennai Branch,Chennai,South
+BR002,Bengaluru Branch,Bengaluru,South
+BR003,Hyderabad Branch,Hyderabad,South
+BR004,Kochi Branch,Kochi,South
+BR005,Coimbatore Branch,Coimbatore,South
+BR006,Mumbai Branch,Mumbai,West
+BR007,Pune Branch,Pune,West
+BR008,Ahmedabad Branch,Ahmedabad,West
+BR009,Surat Branch,Surat,West
+BR010,Jaipur Branch,Jaipur,West
+BR011,Delhi Branch,Delhi,North
+BR012,Noida Branch,Noida,North
+BR013,Gurugram Branch,Gurugram,North
+BR014,Lucknow Branch,Lucknow,North
+BR015,Chandigarh Branch,Chandigarh,North
+BR016,Kolkata Branch,Kolkata,East
+BR017,Bhubaneswar Branch,Bhubaneswar,East
+BR018,Patna Branch,Patna,East
+BR019,Ranchi Branch,Ranchi,East
+BR020,Guwahati Branch,Guwahati,East
+BR021,Nagpur Branch,Nagpur,Central
+BR022,Bhopal Branch,Bhopal,Central
+BR023,Indore Branch,Indore,Central
+BR024,Raipur Branch,Raipur,Central
+BR025,Vellore Branch,Vellore,South

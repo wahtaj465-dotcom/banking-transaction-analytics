@@ -1,0 +1,121 @@
+merchant_id,merchant_name,category,mcc_code,city
+MER001,Amazon,Shopping,5311,Pune
+MER002,Flipkart,Shopping,5311,Surat
+MER003,Myntra,Shopping,5651,Bhopal
+MER004,Ajio,Shopping,5651,Mumbai
+MER005,Zomato,Food,5812,Coimbatore
+MER006,Swiggy,Food,5812,Raipur
+MER007,Dominos,Food,5814,Pune
+MER008,KFC,Food,5814,Patna
+MER009,Uber,Travel,4121,Ranchi
+MER010,Ola,Travel,4121,Pune
+MER011,IRCTC,Travel,4112,Lucknow
+MER012,MakeMyTrip,Travel,4722,Kolkata
+MER013,BigBasket,Grocery,5411,Bengaluru
+MER014,DMart,Grocery,5411,Chennai
+MER015,Reliance Fresh,Grocery,5411,Pune
+MER016,Apollo Pharmacy,Healthcare,5912,Lucknow
+MER017,1mg,Healthcare,5912,Ranchi
+MER018,MedPlus,Healthcare,5912,Chennai
+MER019,Netflix,Entertainment,4899,Surat
+MER020,Spotify,Entertainment,4899,Indore
+MER021,BookMyShow,Entertainment,7832,Mumbai
+MER022,Airtel,Utilities,4814,Gurugram
+MER023,Jio,Utilities,4814,Bengaluru
+MER024,TANGEDCO,Utilities,4900,Delhi
+MER025,IndianOil,Fuel,5541,Bengaluru
+MER026,BPCL,Fuel,5541,Noida
+MER027,HPCL,Fuel,5541,Kolkata
+MER028,Food Store 28,Food,5025,Mumbai
+MER029,Healthcare Store 29,Healthcare,5250,Delhi
+MER030,Grocery Store 30,Grocery,5142,Hyderabad
+MER031,Food Store 31,Food,5692,Lucknow
+MER032,Food Store 32,Food,5604,Bhubaneswar
+MER033,Utilities Store 33,Utilities,5032,Surat
+MER034,Shopping Store 34,Shopping,5095,Surat
+MER035,Grocery Store 35,Grocery,5238,Vellore
+MER036,Shopping Store 36,Shopping,5574,Chandigarh
+MER037,Grocery Store 37,Grocery,5733,Bhopal
+MER038,Utilities Store 38,Utilities,5225,Ahmedabad
+MER039,Fuel Store 39,Fuel,5603,Hyderabad
+MER040,Healthcare Store 40,Healthcare,5828,Surat
+MER041,Shopping Store 41,Shopping,5777,Lucknow
+MER042,Travel Store 42,Travel,5714,Patna
+MER043,Utilities Store 43,Utilities,5348,Mumbai
+MER044,Healthcare Store 44,Healthcare,5159,Vellore
+MER045,Grocery Store 45,Grocery,5980,Noida
+MER046,Entertainment Store 46,Entertainment,5104,Kolkata
+MER047,Food Store 47,Food,5389,Vellore
+MER048,Food Store 48,Food,5367,Bhopal
+MER049,Entertainment Store 49,Entertainment,5618,Bengaluru
+MER050,Healthcare Store 50,Healthcare,5826,Lucknow
+MER051,Shopping Store 51,Shopping,5747,Delhi
+MER052,Fuel Store 52,Fuel,5549,Lucknow
+MER053,Food Store 53,Food,5996,Ahmedabad
+MER054,Utilities Store 54,Utilities,5080,Mumbai
+MER055,Healthcare Store 55,Healthcare,5849,Chennai
+MER056,Entertainment Store 56,Entertainment,5591,Chennai
+MER057,Grocery Store 57,Grocery,5721,Pune
+MER058,Food Store 58,Food,5046,Chandigarh
+MER059,Grocery Store 59,Grocery,5791,Jaipur
+MER060,Healthcare Store 60,Healthcare,5081,Noida
+MER061,Grocery Store 61,Grocery,5887,Coimbatore
+MER062,Food Store 62,Food,5389,Vellore
+MER063,Healthcare Store 63,Healthcare,5464,Bengaluru
+MER064,Entertainment Store 64,Entertainment,5166,Bhopal
+MER065,Entertainment Store 65,Entertainment,5363,Guwahati
+MER066,Grocery Store 66,Grocery,5686,Nagpur
+MER067,Healthcare Store 67,Healthcare,5718,Kochi
+MER068,Food Store 68,Food,5623,Vellore
+MER069,Travel Store 69,Travel,5546,Surat
+MER070,Grocery Store 70,Grocery,5167,Kolkata
+MER071,Fuel Store 71,Fuel,5388,Ranchi
+MER072,Healthcare Store 72,Healthcare,5947,Vellore
+MER073,Grocery Store 73,Grocery,5701,Bengaluru
+MER074,Entertainment Store 74,Entertainment,5863,Patna
+MER075,Shopping Store 75,Shopping,5234,Hyderabad
+MER076,Shopping Store 76,Shopping,5824,Noida
+MER077,Entertainment Store 77,Entertainment,5410,Bhubaneswar
+MER078,Healthcare Store 78,Healthcare,5067,Vellore
+MER079,Grocery Store 79,Grocery,5935,Nagpur
+MER080,Entertainment Store 80,Entertainment,5217,Guwahati
+MER081,Fuel Store 81,Fuel,5405,Vellore
+MER082,Fuel Store 82,Fuel,5146,Pune
+MER083,Healthcare Store 83,Healthcare,5142,Ranchi
+MER084,Grocery Store 84,Grocery,5762,Coimbatore
+MER085,Healthcare Store 85,Healthcare,5764,Bhopal
+MER086,Utilities Store 86,Utilities,5919,Bengaluru
+MER087,Utilities Store 87,Utilities,5370,Guwahati
+MER088,Grocery Store 88,Grocery,5141,Mumbai
+MER089,Fuel Store 89,Fuel,5093,Mumbai
+MER090,Shopping Store 90,Shopping,5881,Raipur
+MER091,Food Store 91,Food,5156,Raipur
+MER092,Travel Store 92,Travel,5811,Chandigarh
+MER093,Utilities Store 93,Utilities,5610,Hyderabad
+MER094,Food Store 94,Food,5394,Chandigarh
+MER095,Utilities Store 95,Utilities,5610,Mumbai
+MER096,Fuel Store 96,Fuel,5541,Jaipur
+MER097,Healthcare Store 97,Healthcare,5994,Surat
+MER098,Shopping Store 98,Shopping,5696,Coimbatore
+MER099,Food Store 99,Food,5698,Coimbatore
+MER100,Healthcare Store 100,Healthcare,5787,Ahmedabad
+MER101,Entertainment Store 101,Entertainment,5114,Coimbatore
+MER102,Healthcare Store 102,Healthcare,5445,Bhopal
+MER103,Travel Store 103,Travel,5464,Raipur
+MER104,Shopping Store 104,Shopping,5976,Ahmedabad
+MER105,Healthcare Store 105,Healthcare,5995,Noida
+MER106,Travel Store 106,Travel,5519,Nagpur
+MER107,Food Store 107,Food,5891,Guwahati
+MER108,Healthcare Store 108,Healthcare,5861,Mumbai
+MER109,Grocery Store 109,Grocery,5156,Chandigarh
+MER110,Entertainment Store 110,Entertainment,5780,Ranchi
+MER111,Travel Store 111,Travel,5552,Hyderabad
+MER112,Shopping Store 112,Shopping,5613,Gurugram
+MER113,Entertainment Store 113,Entertainment,5500,Bengaluru
+MER114,Shopping Store 114,Shopping,5114,Bengaluru
+MER115,Entertainment Store 115,Entertainment,5899,Noida
+MER116,Healthcare Store 116,Healthcare,5245,Pune
+MER117,Shopping Store 117,Shopping,5246,Pune
+MER118,Food Store 118,Food,5087,Bengaluru
+MER119,Fuel Store 119,Fuel,5835,Raipur
+MER120,Food Store 120,Food,5778,Chennai

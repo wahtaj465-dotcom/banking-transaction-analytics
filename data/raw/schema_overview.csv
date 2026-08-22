@@ -1,0 +1,6 @@
+table,rows,purpose
+customers,5000,Customer demographics & income
+accounts,6200,Account master data
+merchants,120,Merchant dimension with MCC
+branches,25,Branch & regional hierarchy
+transactions,100000,Fact table with balances & channels
